@@ -1,6 +1,6 @@
 # Nura.Shope 🛍
 
-## Alga Fiky - Alga Fiky - PAM RB
+## Alga Fiky - PAM RB
 
 ### Cara  menjalankan code
 
