@@ -1,4 +1,4 @@
-# Nura.Shope 🛍
+# Nura.Shope 
 
 ## Alga Fiky - PAM RB
 
