@@ -1,7 +1,26 @@
-# Thrift 🛍
-THRIFT is an online marketplace mobile app build to help charity organization and people to find product under the market price. 
+# Nura.Shope 🛍
 
-THRIFT adalah aplikasi thrift shop online yaitu aplikasi yang dapat digunakan untuk menjual barang bekas yang sudah tidak dipakai dengan sistem yang sama seperti thrift shop pada umumnya, semua pendapatan yang didapatkan dari hasil penjualan tidak akan diteruskan ke penjual. melainkan akan di donasikan ke organisasi-organisasi galang dana tertentu yang dapat ditentukan oleh komunitas thrift. 
+## Alga Fiky - Alga Fiky - PAM RB
+
+### Cara  menjalankan code
+
+1. install dependensi yang diperlukan
+```sh 
+npm install
+```
+atau
+```sh 
+yarn install
+```
+2. install expo
+```sh 
+npm i expo
+```
+3. running expo 
+```sh 
+npm start
+```
+
 
 Daftar package expo yang digunakan dalam aplikasi ini adalah
 "expo-camera": "~12.3.0",
