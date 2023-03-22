@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Nura.Shope",
+    "slug": "Nura.Shope",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./app/assets/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./app/assets/logo.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.alga.fiky.Nura.Shope"
+    },
+    "web": {
+      "favicon": ".app/assets/logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c848d9af-516d-4069-81a8-69886ced8929"
+      }
+    }
+  }
+}
